@@ -15,11 +15,16 @@ img {
 }
 
 .sidenav a {
+  padding-top: 0.75rem;
   color: white;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .sidenav i {
   margin-right: 1rem;
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .menu {
